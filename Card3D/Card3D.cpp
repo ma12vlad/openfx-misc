@@ -48,13 +48,13 @@ using namespace OFX;
 using std::string;
 
 #define kCameraAxis "axis"
-#define kCameraAxisLabel "Axis"
+#define kCameraAxisLabel "Ось"
 
 #define kCameraCam "cam"
 #define kCameraCamLabel "Cam"
 
 #define kGroupCard "card"
-#define kGroupCardLabel "Card"
+#define kGroupCardLabel "Карта"
 
 
 //#define kParamTransformAmount "transformAmount"
